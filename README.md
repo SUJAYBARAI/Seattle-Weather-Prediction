@@ -78,7 +78,8 @@ Seattle historical weather dataset containing:
 
 ## 📸 Demo Screenshot  
 _Add a screenshot of your app here_  
-![Screenshot](Seattle-Weather-Prediction 2.png)
+![Screenshot](Seattle-Weather-Prediction2.png)
+
 ![Screenshot](Seattle-Weather-Prediction.png)
 
 🌍 Live Demo
@@ -88,3 +89,4 @@ You can try the app here: https://seattle-weather-prediction-hup7rb5bf9mqtyrehdb
 
 ## 📜 License  
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
+
